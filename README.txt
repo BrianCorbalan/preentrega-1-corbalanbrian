@@ -1,0 +1,1 @@
+Es un simulador de Tickeo de remeras para una tienda online
